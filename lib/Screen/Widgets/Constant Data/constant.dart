@@ -5,7 +5,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:nb_utils/nb_utils.dart';
 
-const kAdminEmail = 'admin@admin.com';
+const kAdminEmail = 'admin@admin.uz';
 ///apps name
 String appsName = 'Pos Saas';
 String appsTitle = 'Poss Saas Super Admin';
